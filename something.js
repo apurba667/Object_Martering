@@ -8,6 +8,6 @@ class person{
 
 const heroPerson = new person('Hero ', 'Balam', 2000);
 console.log(heroPerson);
-const heroPerson1 = new person('Bal','sal', 09);
+const heroPerson1 = new person('Balam','salam', 09);
 console.log(heroPerson1);
 
